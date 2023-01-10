@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leandro</h1>
-<h3 align="center">Just a normal Cyber Security Analyst 😆</h3>
+<h3 align="center">A Cyber Security Analyst 😆</h3>
 
 - 🔭 I’m currently working on **PeYo**
 
